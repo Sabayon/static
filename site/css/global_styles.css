@@ -6,7 +6,7 @@
 	clear: both;
 	position: relative;
 	padding: 0 0 1em 0;
-	background: url('../img/top_bg.png') repeat-x bottom;
+	background: url('../img/top_bg.png') repeat-x bottom #111;
 }
 
 /*
