@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2973"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/mnt/DATI/Documenti/SabayonLinux/3.3 artwork"
+   sodipodi:docname="sabayon-text-only.svg">
+  <defs
+     id="defs2975">
+    <linearGradient
+       id="linearGradient2907">
+      <stop
+         style="stop-color:#333;stop-opacity:0.76829267;"
+         offset="0"
+         id="stop2909" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop2911" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2907"
+       id="radialGradient2913"
+       cx="454.63205"
+       cy="337.13953"
+       fx="454.63205"
+       fy="337.13953"
+       r="191.16338"
+       gradientTransform="matrix(3.514497,1.693571e-6,-1.738483e-4,7.854806e-2,-1300.078,345.1841)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3550">
+      <stop
+         style="stop-color:#fbffff;stop-opacity:1;"
+         offset="0"
+         id="stop3552" />
+      <stop
+         style="stop-color:#fbffd0;stop-opacity:0;"
+         offset="1"
+         id="stop3554" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3550"
+       id="linearGradient3556"
+       x1="565.65393"
+       y1="52.028114"
+       x2="645.57361"
+       y2="564.80005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.341886,0,0,1.341888,-288.7381,-230.3651)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2907"
+       id="radialGradient3881"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.514497,1.693571e-6,-1.738483e-4,7.854806e-2,-1085.411,222.1841)"
+       cx="454.63205"
+       cy="337.13953"
+       fx="454.63205"
+       fy="337.13953"
+       r="191.16338" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2907"
+       id="radialGradient3887"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.514497,1.80633e-6,-1.738483e-4,8.377786e-2,-1214.078,344.4209)"
+       cx="454.63205"
+       cy="337.13953"
+       fx="454.63205"
+       fy="337.13953"
+       r="191.16338" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:window-width="1043"
+     inkscape:window-height="622"
+     inkscape:window-x="242"
+     inkscape:window-y="120" />
+  <metadata
+     id="metadata2978">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:black;fill-opacity:1;stroke:none;stroke-width:27.19300079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2981"
+       width="801.66669"
+       height="288.33331"
+       x="-1.6666666"
+       y="156.66667"
+       ry="58.333332" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient3887);fill-opacity:1;stroke:none;stroke-width:27.19300079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2905"
+       width="1463.4624"
+       height="160.19325"
+       x="-348.06454"
+       y="292.57004" />
+    <text
+       xml:space="preserve"
+       style="font-size:216.15913391px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6c0104;fill-opacity:1;stroke:url(#linearGradient3556);stroke-width:6.69006824;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Entangled Plain BRK"
+       x="45.913223"
+       y="349.04651"
+       id="text6725"
+       sodipodi:linespacing="125%"
+       transform="scale(1.007179,0.992872)"
+       inkscape:export-filename="/home/fabio/Desktop/logo_mid.png"
+       inkscape:export-xdpi="35.838501"
+       inkscape:export-ydpi="35.838501"><tspan
+         sodipodi:role="line"
+         id="tspan5835"
+         x="45.913223"
+         y="349.04651"
+         style="fill:#6c0104;fill-opacity:1;stroke:url(#linearGradient3556);stroke-width:6.69006824;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">sabayon</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="/mnt/DATI/Documenti/SabayonLinux"
+   sodipodi:docname="sl5-boot.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5330">
+      <stop
+         style="stop-color:#5c5c5c;stop-opacity:1;"
+         offset="0"
+         id="stop5332" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop5334" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3550">
+      <stop
+         style="stop-color:#fbfff1;stop-opacity:1;"
+         offset="0"
+         id="stop3552" />
+      <stop
+         style="stop-color:#fbffa0;stop-opacity:0;"
+         offset="1"
+         id="stop3554" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3513">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop3515" />
+      <stop
+         style="stop-color:#5f5f5f;stop-opacity:1;"
+         offset="1"
+         id="stop3517" />
+    </linearGradient>
+    <linearGradient
+       y2="542.828"
+       x2="752.01514"
+       y1="576.28528"
+       x1="769.30664"
+       gradientTransform="matrix(0.108322,1.047984,-1.072375,0.100007,554.9961,-493.8955)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8174"
+       xlink:href="#linearGradient10831"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(-0.346869,-0.770216,0.776169,-0.344208,-8.296401,1038.468)"
+       y2="540.87042"
+       x2="751.24042"
+       y1="574.03912"
+       x1="765.67487"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7281"
+       xlink:href="#linearGradient7265"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="326.66666"
+       x2="500.10001"
+       y1="326.66666"
+       x1="403.23331"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6342"
+       xlink:href="#linearGradient4556"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="326.66666"
+       x2="500.10001"
+       y1="352.86401"
+       x1="483.57184"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5455"
+       xlink:href="#linearGradient4556"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="405"
+       x2="673.43334"
+       y1="405"
+       x1="333.23334"
+       id="linearGradient3669"
+       xlink:href="#linearGradient3663"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       r="170.1"
+       fy="405"
+       fx="503.33334"
+       cy="405"
+       cx="503.33334"
+       id="radialGradient3661"
+       xlink:href="#linearGradient3655"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3655">
+      <stop
+         id="stop3657"
+         offset="0"
+         style="stop-color:#fbd750;stop-opacity:1;" />
+      <stop
+         id="stop3659"
+         offset="1"
+         style="stop-color:#fbd750;stop-opacity:0.76687121;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3663"
+       inkscape:collect="always">
+      <stop
+         id="stop3665"
+         offset="0"
+         style="stop-color:#fbd750;stop-opacity:1;" />
+      <stop
+         id="stop3667"
+         offset="1"
+         style="stop-color:#fbd750;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4556">
+      <stop
+         id="stop4558"
+         offset="0"
+         style="stop-color:#fbd750;stop-opacity:1;" />
+      <stop
+         id="stop4560"
+         offset="1"
+         style="stop-color:#fbd750;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7265">
+      <stop
+         id="stop7267"
+         offset="0"
+         style="stop-color:white;stop-opacity:1;" />
+      <stop
+         id="stop7269"
+         offset="1"
+         style="stop-color:#e26948;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10831">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop10833" />
+      <stop
+         style="stop-color:#fbd750;stop-opacity:1;"
+         offset="1"
+         id="stop10835" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3689">
+      <stop
+         id="stop3691"
+         offset="0"
+         style="stop-color:#94030c;stop-opacity:0.46951219;" />
+      <stop
+         id="stop3693"
+         offset="1"
+         style="stop-color:#781100;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6662">
+      <stop
+         id="stop6664"
+         offset="0"
+         style="stop-color:#c97936;stop-opacity:1;" />
+      <stop
+         id="stop6666"
+         offset="1"
+         style="stop-color:#c97936;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3689"
+       id="linearGradient2606"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.25998,-2.816196e-6,2.816196e-6,3.25998,-851.1293,-846.8207)"
+       x1="314.32242"
+       y1="489.08981"
+       x2="383.39673"
+       y2="457.98083" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3513"
+       id="linearGradient3519"
+       x1="533.0658"
+       y1="656.62213"
+       x2="533.0658"
+       y2="1015.9746"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3550"
+       id="linearGradient3556"
+       x1="565.65393"
+       y1="52.028114"
+       x2="645.57361"
+       y2="564.80005"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5330"
+       id="radialGradient5336"
+       cx="544.97729"
+       cy="376.56589"
+       fx="544.97729"
+       fy="376.56589"
+       r="322.74374"
+       gradientTransform="matrix(1.465137,0,0,0.123214,-280.2801,368.9459)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.93111639"
+     inkscape:cx="491"
+     inkscape:cy="393"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="1024px"
+     height="768px"
+     showgrid="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="998"
+     inkscape:window-x="1280"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient3519);fill-opacity:1.0;stroke:none;stroke-width:27.19300079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1872"
+       width="1024"
+       height="768"
+       x="-1.0101526"
+       y="1.2942181"
+       inkscape:export-filename="/mnt/DATI/Documenti/SabayonLinux/sl5-boot/background-1024x768-2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient5336);fill-opacity:1;stroke:none;stroke-width:27.19300079;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4443"
+       width="1021.2642"
+       height="179.17651"
+       x="1.9483068e-05"
+       y="326.29236" />
+    <text
+       xml:space="preserve"
+       style="font-size:370.43048096px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2606);fill-opacity:1;stroke:none;stroke-width:3.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:AnimalTracks"
+       x="94.954361"
+       y="831.96167"
+       id="text1910"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/fabio/Desktop/sabayonlogosmall.png"
+       inkscape:export-xdpi="54.534237"
+       inkscape:export-ydpi="54.534237"
+       transform="matrix(0.769236,-0.638965,0.638965,0.769236,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1912"
+         x="94.954361"
+         y="831.96167"
+         style="fill:url(#linearGradient2606);fill-opacity:1;stroke:none;stroke-width:3.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:161.08679199px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#9b0307;fill-opacity:1;stroke:url(#linearGradient3556);stroke-width:4.98559427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Entangled Plain BRK"
+       x="249.39003"
+       y="431.79077"
+       id="text6725"
+       sodipodi:linespacing="125%"
+       transform="scale(1.007179,0.992872)"
+       inkscape:export-filename="/home/fabio/Desktop/logo_mid.png"
+       inkscape:export-xdpi="35.838501"
+       inkscape:export-ydpi="35.838501"><tspan
+         sodipodi:role="line"
+         id="tspan5835"
+         x="249.39003"
+         y="431.79077"
+         style="fill:#9b0307;fill-opacity:1;stroke:url(#linearGradient3556);stroke-width:4.98559427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">sabayon</tspan></text>
+  </g>
+</svg>
