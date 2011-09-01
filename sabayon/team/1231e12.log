@@ -1,0 +1,318 @@
+
+*** File di log iniziato
+*** il gio mar 13 02:59:31 2008
+
+[gio mar 13 2008] [02:59:31] <lxnay>	look at x11-libs/qt:3 (R)DEPEND
+[gio mar 13 2008] [02:59:32] Assente	Betelgeuse è assente: SLEEP!
+[gio mar 13 2008] [03:57:39] <lxnay>	dev-libs/lzo needs nasm
+[gio mar 13 2008] [03:57:51] <lxnay>	which i think it's just a DEPEND
+[gio mar 13 2008] [03:58:10] <lxnay>	x264-svn needs yasm, same thing
+
+*** File di log iniziato
+*** il gio lug 23 15:27:35 2009
+
+[gio lug 23 2009] [15:27:35] <lxnay>	ping
+[gio lug 23 2009] [15:30:06] <lxnay>	ping me back anytime
+[gio lug 23 2009] [15:30:12] <lxnay>	and sorry for the delay
+[gio lug 23 2009] [16:11:47] <Betelgeuse>	I have time next weekend at the earliest.
+[gio lug 23 2009] [16:12:12] <lxnay>	ok no problem, i'll ping you on saturday
+[gio lug 23 2009] [16:12:14] <lxnay>	ok?
+[gio lug 23 2009] [16:12:29] <Betelgeuse>	that's fine
+[gio lug 23 2009] [16:12:51] <lxnay>	i might be doing trekking, i don't know, but i'll drop you a query msg anyway
+[gio lug 23 2009] [16:12:52] <Betelgeuse>	but try to actually do it
+[gio lug 23 2009] [16:13:10] <Betelgeuse>	I don't have eternal patience
+[gio lug 23 2009] [16:13:33] <lxnay>	we have until the 15th of august, i wouldn't worry that much ;)
+[gio lug 23 2009] [16:13:52] <Betelgeuse>	well you are on overtime already any way
+[gio lug 23 2009] [16:14:21] <lxnay>	we're all busy man, it's real life, it sucks
+[gio lug 23 2009] [16:14:28] <lxnay>	yeah and I apologize
+[gio lug 23 2009] [16:14:50] <Betelgeuse>	Sure but we like to recruit people who keep up their end.
+[gio lug 23 2009] [16:14:55] <lxnay>	but i thought that someone was going to ping me after my last bug message
+[gio lug 23 2009] [16:15:08] <lxnay>	anyway, it's fine
+[gio lug 23 2009] [16:15:22] <lxnay>	we'll eventually do it, just a bit more patience
+[gio lug 23 2009] [16:16:00] <Betelgeuse>	The point is that if we have problems scheduling and doing the interview it might indicate potential problems later down the line.
+[gio lug 23 2009] [16:16:14] <Betelgeuse>	but let's see how it goes
+[gio lug 23 2009] [16:16:38] <lxnay>	sure, just my apologies, i've been really busy to arrange stuff before summer vacation here
+[gio lug 23 2009] [16:17:25] <Betelgeuse>	if you are too busy just let me know and we can postpone
+[gio lug 23 2009] [16:17:25] <lxnay>	and family stuff...
+[gio lug 23 2009] [16:17:53] <lxnay>	no, i'm free and ready anytime during the week, a bit less during weekends
+[gio lug 23 2009] [16:18:07] <lxnay>	just because i go out walking
+[sab lug 25 2009] [18:01:44] <lxnay|tw0>	ping
+[sab lug 25 2009] [18:03:29] <lxnay|tw0>	just got back home, ping me back when available
+[sab lug 25 2009] [18:35:45] <Betelgeuse>	I am havnig dinner first
+[sab lug 25 2009] [19:32:38] <Betelgeuse>	I am around now
+[sab lug 25 2009] [19:52:52] <lxnay|tw0>	here I am
+[sab lug 25 2009] [19:53:21] <Betelgeuse>	How are you around tomorrow?
+[sab lug 25 2009] [19:53:44] <Betelgeuse>	for planning the overall schedule
+[sab lug 25 2009] [19:53:56] <lxnay|tw0>	well, i have a bbq but i should be avail in the afternoon
+[sab lug 25 2009] [19:54:14] <lxnay|tw0>	it's very probable i'll be home tomorrow afternoon*
+[sab lug 25 2009] [19:54:19] <Betelgeuse>	I am golfing between 9UTC and 15UTC
+[sab lug 25 2009] [19:54:50] <lxnay|tw0>	mmh, that's the time delta i'll be out for sure
+[sab lug 25 2009] [19:56:41] <Betelgeuse>	any way I am not planning reviewing more than one quiz today so we need to schedule when to continue
+[sab lug 25 2009] [19:56:52] <Betelgeuse>	so are you around after 15UTC?
+[sab lug 25 2009] [19:57:41] <lxnay>	that's very very probable, almost 100%
+[sab lug 25 2009] [19:57:51] <Betelgeuse>	Ok suggest a concrete time then.
+[sab lug 25 2009] [19:58:49] <lxnay>	let's make 15UTC
+[sab lug 25 2009] [19:59:36] <lxnay>	problem is, i'm almost full time outside during weekends while I'm always on the PC (for work reasons) during the week
+[sab lug 25 2009] [19:59:48] <Betelgeuse>	We can continue during the week too
+[sab lug 25 2009] [19:59:52] <Betelgeuse>	I am around most evenings.
+[sab lug 25 2009] [20:00:16] <lxnay>	me too, i work from home but still, i wake up at 8am (6UTC) every day
+[sab lug 25 2009] [20:00:17] <Betelgeuse>	For tomorrow let's make it 16UTC if that's better in case the round is slow.
+[sab lug 25 2009] [20:00:31] <Betelgeuse>	s/if/as/
+[sab lug 25 2009] [20:00:59] <Betelgeuse>	or we can do it during the week, which one do you prefer?
+[sab lug 25 2009] [20:01:23] <lxnay>	during the week I'm more reliable on timings
+[sab lug 25 2009] [20:01:59] <lxnay>	it's up to you, if you're not overloaded during the upcoming week, it would be better
+[sab lug 25 2009] [20:04:20] <Betelgeuse>	Just a tip: Best to answer my questions directly.
+[sab lug 25 2009] [20:04:29] <Betelgeuse>	If I want to know which one is better, I want to know just that.
+[sab lug 25 2009] [20:05:09] <Betelgeuse>	I don't have anything for Monday. When during the evening do you want to start?
+[sab lug 25 2009] [20:05:21] <lxnay>	let's make the 2nd round during the upcoming week
+[sab lug 25 2009] [20:05:59] <lxnay>	20UTC?
+[sab lug 25 2009] [20:06:12] <Betelgeuse>	Can you make it earlier? I am +3 UTC
+[sab lug 25 2009] [20:06:19] <lxnay>	17UTC?
+[sab lug 25 2009] [20:06:27] <lxnay>	or even 15 if you like
+[sab lug 25 2009] [20:06:32] <Betelgeuse>	17 UTC is fine
+[sab lug 25 2009] [20:07:03] <lxnay>	ok then, Monday 26, 17UTC
+[sab lug 25 2009] [20:07:23] <Betelgeuse>	ok for the review:
+[sab lug 25 2009] [20:07:27] <Betelgeuse>	I will go through your answers, find out errors and ask some extras related and unrelated to the quiz questions. Take your time, it's supposed to be a learning experience as much as a test of your skills. But just tell me if you can't absolute find something so that you don't use too much time.
+[sab lug 25 2009] [20:07:32] <Betelgeuse>	After the sessions you are asked to submit a fixed versions of the quizzes so logging the session might be prudent. 
+[sab lug 25 2009] [20:07:52] <lxnay>	ok
+[sab lug 25 2009] [20:08:02] <lxnay>	can ssuominen, my mentor, listen ?
+[sab lug 25 2009] [20:08:07] <lxnay>	he asked me about that
+[sab lug 25 2009] [20:08:08] <Betelgeuse>	if you want to
+[sab lug 25 2009] [20:08:12] <lxnay>	ok
+[sab lug 25 2009] [20:08:31] <Betelgeuse>	We talked on IRC. He had his mentor there but there's no need by policy.
+[sab lug 25 2009] [20:08:42] <Betelgeuse>	So do you want him listening?
+[sab lug 25 2009] [20:08:45] <lxnay>	sure
+[sab lug 25 2009] [20:08:48] <lxnay>	i do
+[sab lug 25 2009] [20:08:57] <Betelgeuse>	#lxnay-review
+[lun ago 3 2009] [12:28:41] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[lun ago 3 2009] [12:52:13] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[lun ago 3 2009] [13:50:38] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[lun ago 3 2009] [13:54:15] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[lun ago 3 2009] [15:53:07] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[lun ago 3 2009] [16:14:03] Quit	Betelgeuse ha lasciato questo server (leguin.freenode.net irc.freenode.net).
+[mar ago 4 2009] [13:08:13] Quit	Betelgeuse ha lasciato questo server (hubbard.freenode.net irc.freenode.net).
+[mar ago 4 2009] [13:25:33] Quit	Betelgeuse ha lasciato questo server (hubbard.freenode.net irc.freenode.net).
+[mar ago 4 2009] [15:09:35] Quit	Betelgeuse ha lasciato questo server (hubbard.freenode.net irc.freenode.net).
+[gio ago 6 2009] [02:51:42] Quit	Betelgeuse ha lasciato questo server (wolfe.freenode.net irc.freenode.net).
+[lun ago 17 2009] [10:25:06] Quit	Betelgeuse ha lasciato questo server (Read error: 145 (Connection timed out)).
+
+*** File di log iniziato
+*** il gio set 3 12:16:49 2009
+
+[gio set 3 2009] [12:16:49] <lxnay>	hi there ;) i'll be available starting from 16 UTC
+[gio set 3 2009] [12:16:50] Assente	Betelgeuse è assente: ZZzzz
+[gio set 3 2009] [12:21:18] Quit	Betelgeuse ha lasciato questo server (farmer.freenode.net irc.freenode.net).
+[ven set 4 2009] [07:05:44] Quit	Betelgeuse ha lasciato questo server (Remote closed the connection).
+[ven set 4 2009] [07:51:10] <lxnay|tw0>	is there anybody?
+[ven set 4 2009] [07:51:10] Assente	Betelgeuse è assente: ZZzzz
+[sab set 5 2009] [17:26:36] <Betelgeuse>	ping
+
+*** File di log iniziato
+*** il dom set 6 22:58:46 2009
+
+[dom set 6 2009] [22:58:46] <lxnay>	I am heading to bed, tomorrow I'll be off all day (Milan), the day after I'll be off during the morning (University exam) but available in the afternoon/evening/night
+[dom set 6 2009] [22:59:45] <Betelgeuse>	I had a power source failure
+[dom set 6 2009] [22:59:58] <Betelgeuse>	I will probably find time during next week
+[dom set 6 2009] [23:00:37] <lxnay>	ok, thanks a lot, tty in the next days
+[lun set 7 2009] [23:00:59] Quit	Betelgeuse ha lasciato questo server (sendak.freenode.net irc.freenode.net).
+[gio set 10 2009] [10:36:07] <lxnay|thr33>	ping
+[gio set 10 2009] [10:36:07] Assente	Betelgeuse è assente: ZzZZZZZzz
+[gio set 10 2009] [12:04:07] <Betelgeuse>	pong
+[gio set 10 2009] [12:04:57] <lxnay|thr33>	w/e you're available, I'll be available today (except between 16UTC and 18)
+[gio set 10 2009] [12:04:57] Assente	Betelgeuse è assente: Tekla
+[gio set 10 2009] [12:49:11] <Betelgeuse>	I am guessing I will be around earliest at 18UTC 
+[gio set 10 2009] [12:49:35] <Betelgeuse>	if the errant doesn't take longer we could do the setup today
+[gio set 10 2009] [12:50:01] <lxnay|thr33>	great
+[gio set 10 2009] [20:05:23] <Betelgeuse>	I am home now but good tv series on
+[gio set 10 2009] [20:55:45] <Betelgeuse>	still gone?
+[ven set 11 2009] [12:16:39] <lxnay>	hi, DSL stopped working last night until now
+[ven set 11 2009] [12:16:39] Assente	Betelgeuse è assente: ZZzzZZzz
+[sab set 12 2009] [16:32:36] <lxnay>	ping
+[sab set 12 2009] [16:32:54] <Betelgeuse>	pong
+[sab set 12 2009] [16:33:16] <lxnay>	here I am :)
+[sab set 12 2009] [16:33:31] <Betelgeuse>	I will be heading to dinner in less than an hour.
+[sab set 12 2009] [16:33:52] <Betelgeuse>	I will be around at 18UTC
+[sab set 12 2009] [16:34:00] <lxnay>	okies
+[sab set 12 2009] [16:34:02] <Betelgeuse>	probably earlier but no guarnties
+[sab set 12 2009] [22:18:45] <Betelgeuse>	ping
+[sab set 12 2009] [23:36:51] <lxnay>	pong
+[sab set 12 2009] [23:39:44] <Betelgeuse>	Should have remember to ping you earlier probably.
+[sab set 12 2009] [23:39:54] <Betelgeuse>	How about we set 18UTC tomorrow as a meetup time?
+[sab set 12 2009] [23:40:37] <Betelgeuse>	or 16UTC
+[sab set 12 2009] [23:40:51] <Betelgeuse>	less distractions on TV
+[sab set 12 2009] [23:41:24] <lxnay>	ehehe
+[sab set 12 2009] [23:41:28] <lxnay>	that's fine
+[sab set 12 2009] [23:41:34] <Betelgeuse>	ok 16UTC
+[sab set 12 2009] [23:41:37] <lxnay>	allrite
+[dom set 13 2009] [18:03:01] <Betelgeuse>	ping
+[dom set 13 2009] [18:19:56] <lxnay>	pong
+[dom set 13 2009] [18:21:44] <lxnay>	you there?
+[dom set 13 2009] [18:23:03] <Betelgeuse>	occupied with other stuff atm
+[dom set 13 2009] [18:23:27] <Betelgeuse>	we have a work dl tomorrow so I started a conference call as you weren't around
+[dom set 13 2009] [18:24:09] <lxnay>	i'm available all evening/night long
+[dom set 13 2009] [18:24:32] <lxnay>	sorry i got here 19 mins later, had to deal with dogs pee
+[dom set 13 2009] [18:25:13] <lxnay>	so what time?
+[dom set 13 2009] [18:29:31] <lxnay>	if you can tell me please
+[dom set 13 2009] [18:29:48] <Betelgeuse>	19:30 UTC at latest
+[dom set 13 2009] [18:29:56] <lxnay>	OK thanks
+[dom set 13 2009] [21:33:56] <Betelgeuse>	still developing
+[dom set 13 2009] [21:36:06] <lxnay>	pong
+[dom set 13 2009] [21:41:50] <lxnay>	i'll be around for another hour
+[dom set 13 2009] [22:25:29] <Betelgeuse>	ok we finished for today
+[dom set 13 2009] [22:38:17] <Betelgeuse>	We can try again tomorrow
+[dom set 13 2009] [22:38:43] <Betelgeuse>	half an hour before the council meeting for example
+[dom set 13 2009] [22:40:33] <lxnay>	k
+[lun set 14 2009] [19:00:07] <lxnay|away>	pling
+[lun set 14 2009] [19:00:07] Assente	Betelgeuse è assente: Meeting
+[lun set 14 2009] [19:00:15] <lxnay|away>	i'm here till 21UTC
+[lun set 14 2009] [19:00:15] Assente	Betelgeuse è assente: Meeting
+[lun set 14 2009] [22:09:45] <Betelgeuse>	Plah couldn't get my laptop to connect with my phone
+[mar set 15 2009] [10:49:41] <lxnay>	ping
+[mar set 15 2009] [10:49:41] Assente	Betelgeuse è assente: ZzzzZZzzz
+[mar set 15 2009] [10:49:56] <lxnay>	today i'm available from 17 UTC
+[mar set 15 2009] [10:49:56] Assente	Betelgeuse è assente: ZzzzZZzzz
+[mar set 15 2009] [11:48:22] <Betelgeuse>	ok
+[mar set 15 2009] [17:33:41] <lxnay>	just in case, i'm already back from university ;)
+[mar set 15 2009] [17:33:42] Assente	Betelgeuse è assente: ZzzzZZzzz
+[mar set 15 2009] [19:03:32] <Betelgeuse>	yeah but I am mostly away
+[mer set 16 2009] [15:37:57] <lxnay>	ping
+[mer set 16 2009] [15:38:04] <lxnay>	available today ;) ?
+[mer set 16 2009] [15:38:18] <lxnay>	i sit here and wait today :D
+[mer set 16 2009] [16:00:27] <Betelgeuse>	I don't have anything planned for the evening (from 18UTC)
+[mer set 16 2009] [16:01:06] <lxnay>	good
+[mer set 16 2009] [16:03:57] <Betelgeuse>	Where were you yesterday?
+[mer set 16 2009] [16:04:22] <lxnay>	last minute business meeting with my boss :(
+[mer set 16 2009] [16:04:48] <lxnay>	skype conf. call actually
+[mer set 16 2009] [16:04:56] <lxnay>	i work for itsme.it
+[mer set 16 2009] [16:05:41] <lxnay>	actually i'm a college student, consultant and dev... quite a busy week i have ;)
+[mer set 16 2009] [20:05:04] <lxnay>	here
+[mer set 16 2009] [20:26:05] <lxnay>	you there?
+[mer set 16 2009] [21:53:08] <Betelgeuse>	home now
+[mer set 16 2009] [21:53:50] <Betelgeuse>	The safest bet with me is to set a time and then be there :)
+[gio set 17 2009] [18:44:44] <lxnay>	ping
+[gio set 17 2009] [18:44:45] Assente	Betelgeuse è assente: golf
+[gio set 17 2009] [23:57:37] <Betelgeuse>	I wasn't around today
+[ven set 18 2009] [13:33:15] <lxnay>	i am around today ;)
+[ven set 18 2009] [13:33:18] Assente	Betelgeuse è assente: University
+[ven set 18 2009] [21:49:26] <lxnay>	you there perhaps now? ;)
+[ven set 18 2009] [21:50:25] <Betelgeuse>	Heading for bed soon as I need to get up early tomorrow.
+[ven set 18 2009] [21:51:28] <lxnay>	let me know if you're available during this weekend
+[ven set 18 2009] [21:51:32] <lxnay>	and gnight
+[ven set 18 2009] [21:53:51] <Betelgeuse>	19:54 <Betelgeuse> The safest bet with me is to set a time and then be there :)
+[ven set 18 2009] [22:00:56] <lxnay>	i am asking you if you are available this weekend
+[ven set 18 2009] [22:01:22] <lxnay>	the next step would be deciding the timing
+[ven set 18 2009] [22:03:05] <Betelgeuse>	17UTC is free
+[ven set 18 2009] [22:03:09] <Betelgeuse>	tomorrow
+[ven set 18 2009] [22:03:30] <lxnay>	OK
+[ven set 18 2009] [22:03:31] <lxnay>	thanks
+[sab set 19 2009] [18:58:30] <Betelgeuse>	it's time
+[sab set 19 2009] [19:07:14] <lxnay>	here i am
+[sab set 19 2009] [19:07:45] <lxnay>	you there?
+[sab set 19 2009] [19:11:41] <Betelgeuse>	went to do other stuff for a while
+[sab set 19 2009] [19:11:47] <lxnay>	:)
+[sab set 19 2009] [19:12:01] <Betelgeuse>	pinging on #gentoo-dev is off little use
+[sab set 19 2009] [19:14:07] <lxnay>	ok
+[sab set 19 2009] [19:14:49] <Betelgeuse>	I don't see the wondershaper ebuild in your latest mail.
+[sab set 19 2009] [19:14:57] <Betelgeuse>	Please send it and the two quizzes in one package.
+[sab set 19 2009] [19:19:06] <lxnay>	just the ebuild or the whole pkg dir?
+[sab set 19 2009] [19:19:40] <Betelgeuse>	<07.08.2009 19:58> <@Betelgeuse> lxnay: I only review the .ebuild, not any other changes you would do for proper ebuild.
+[sab set 19 2009] [19:22:26] <lxnay>	to recruiters right?
+[sab set 19 2009] [19:22:34] <Betelgeuse>	yes
+[sab set 19 2009] [19:27:38] <lxnay>	done
+[sab set 19 2009] [19:28:55] <Betelgeuse>	it has no attachments
+[sab set 19 2009] [19:30:35] <lxnay>	mmh... i attached a .tar.bz2, let me try with plain files
+[sab set 19 2009] [19:31:31] <Betelgeuse>	plain files are better so I don't need to unpack
+[sab set 19 2009] [19:32:16] <lxnay>	ok sending
+[sab set 19 2009] [19:32:20] <lxnay>	sent
+[sab set 19 2009] [19:33:02] <Betelgeuse>	this one only has one attachment
+[sab set 19 2009] [19:33:07] <Betelgeuse>	end-quiz.txt
+[sab set 19 2009] [19:33:29] <lxnay>	my god firegpg
+[sab set 19 2009] [19:33:32] <lxnay>	one moment please
+[sab set 19 2009] [19:37:20] <lxnay>	tried again, otherwise i need to fire up evolution
+[sab set 19 2009] [19:38:43] <Betelgeuse>	samet hing
+[sab set 19 2009] [19:47:53] <lxnay>	ok let me know if it worked this time
+[sab set 19 2009] [19:48:05] <lxnay>	evolution is refusing to load my GPG key
+[sab set 19 2009] [19:49:30] <Betelgeuse>	maybe try again tomorrow then so you have proper time to investiage?
+[sab set 19 2009] [19:49:31] <Betelgeuse>	+t
+[sab set 19 2009] [19:49:35] <Betelgeuse>	same time?
+[sab set 19 2009] [19:49:56] <Betelgeuse>	I still have some maintenance work to do on some websites for today.
+[sab set 19 2009] [19:51:12] <lxnay>	have you seen my latest email?
+[sab set 19 2009] [19:53:32] <Betelgeuse>	ok it seems to have all three
+[sab set 19 2009] [19:54:50] <lxnay>	ohh
+[sab set 19 2009] [19:55:01] <Betelgeuse>	?
+[sab set 19 2009] [19:55:01] <lxnay>	yeah, sorry
+[sab set 19 2009] [19:55:12] <lxnay>	i fired up tbird
+[sab set 19 2009] [19:55:23] <lxnay>	and sent the email once again
+[sab set 19 2009] [19:55:51] <lxnay>	firegpg is very very broken lately
+[sab set 19 2009] [19:56:00] <Betelgeuse>	never used that
+[sab set 19 2009] [19:56:08] <Betelgeuse>	I use enigmail
+[sab set 19 2009] [19:56:45] <Betelgeuse>	Tomorrow in the afternoon I have plenty of free time.
+[sab set 19 2009] [19:57:06] <Betelgeuse>	If you are around then.
+[sab set 19 2009] [19:57:10] <lxnay>	ok
+[sab set 19 2009] [19:57:19] <lxnay>	is there anything else i need to do perhaps in the meantime?
+[sab set 19 2009] [19:57:22] <Betelgeuse>	let's say 10UTC
+[sab set 19 2009] [19:57:31] <lxnay>	10UTC i eat ;)
+[sab set 19 2009] [19:57:46] <Betelgeuse>	when do you finish?
+[sab set 19 2009] [19:58:14] <lxnay>	and i probably go out for a walk, can we do at 16UTC?
+[sab set 19 2009] [19:58:32] <Betelgeuse>	I can't quarantie my availability
+[sab set 19 2009] [19:58:33] <Betelgeuse>	possible
+[sab set 19 2009] [19:58:43] <lxnay>	i'll start pinging you after 16
+[sab set 19 2009] [19:58:44] <lxnay>	;)
+[sab set 19 2009] [19:58:57] <lxnay>	just ping me back when available
+[sab set 19 2009] [19:59:10] <Betelgeuse>	I'll be at relatives and not sure when coming back.
+[sab set 19 2009] [19:59:35] <lxnay>	ok let's try this, if weather sucks, i'll try to ping you earlier
+[sab set 19 2009] [19:59:42] <Betelgeuse>	I will try to read through the stuff today and will send you an email if there's something so it's in shape before the session.
+[sab set 19 2009] [20:00:00] <Betelgeuse>	then the session can be shorter
+[sab set 19 2009] [20:00:24] <lxnay>	ok thanks a lot
+[sab set 19 2009] [20:01:46] <lxnay>	have a nice evening there, going out for a walk before getting laid ;) ehe. ttyt
+[sab set 19 2009] [20:02:15] <Betelgeuse>	bye
+[dom set 20 2009] [18:43:48] <lxnay>	perhaps there :) ?
+[dom set 20 2009] [19:21:15] <Betelgeuse>	I just came home.
+[dom set 20 2009] [19:25:06] <lxnay>	i am here if you have time
+[dom set 20 2009] [19:27:39] <Betelgeuse>	Ebuild quiz: gentoo-core is not really a Gentoo Foundation ML as Foundation members don't need to be developers
+[dom set 20 2009] [19:28:19] <Betelgeuse>	<25.07.2009 18:10> <@Betelgeuse> 1. Security does not belong to gentoo-core. Where does it belong to?
+[dom set 20 2009] [19:30:03] <lxnay>	gentoo-security and bugzilla
+[dom set 20 2009] [19:30:11] <Betelgeuse>	I mean you didn't fix that 
+[dom set 20 2009] [19:30:21] <Betelgeuse>	There's still a note: (security?)
+[dom set 20 2009] [19:30:32] <lxnay>	wait, let me check what I sent you
+[dom set 20 2009] [19:30:44] <lxnay>	i have several versions around, gah
+[dom set 20 2009] [19:32:16] <Betelgeuse>	I recommend git
+[dom set 20 2009] [19:32:54] <lxnay>	eheh, i know ;) but I thought we were done with the quizzes and did not put under RCS
+[dom set 20 2009] [19:33:52] <Betelgeuse>	<25.07.2009 18:07> <Betelgeuse> After the sessions you are asked to submit a fixed versions of the quizzes so logging the session might be prudent.
+[dom set 20 2009] [19:33:59] <Betelgeuse>	:D
+[dom set 20 2009] [19:34:22] <lxnay>	yeah yeah, i am a moron, i have the fixed one somewhere eheh
+[dom set 20 2009] [19:34:40] <Betelgeuse>	We could probably recommend using a VCS to people.
+[dom set 20 2009] [19:35:30] <lxnay>	i tell you, i use git for everything but this time, i didn't make a brain "connection" between the two things
+[dom set 20 2009] [19:36:03] <Betelgeuse>	In the long run having people submit stuff to a web site would be useful.
+[dom set 20 2009] [19:36:08] <Betelgeuse>	But would need to build that first.
+[dom set 20 2009] [19:37:35] <lxnay>	sounds like something interesting to do ;)
+[dom set 20 2009] [19:38:05] <lxnay>	anyway, i probably have the latest version on laptop, which is at my gf's house... so i am quickly reviewing all the answers, should be very quick
+[dom set 20 2009] [19:38:37] <Betelgeuse>	It's hard to succeed that way.
+[dom set 20 2009] [19:39:46] <Betelgeuse>	We can just try again tomorrow.
+[dom set 20 2009] [19:39:53] <lxnay>	it's only ebuild-quiz
+[dom set 20 2009] [19:40:31] <Betelgeuse>	BTW there's a new question to ebuild quiz.
+[dom set 20 2009] [19:41:32] <Betelgeuse>	It's useful for ebuild maintenance so please throw in that one too.
+[dom set 20 2009] [19:42:08] <Betelgeuse>	6.	What steps are needed to remove a use flag from IUSE in an ebuild?
+[dom set 20 2009] [19:43:45] <lxnay>	ok ebuild-quiz is fixed
+[dom set 20 2009] [19:43:54] <lxnay>	let me check for new questions i did not answer
+[dom set 20 2009] [19:44:02] <lxnay>	gimme a sec
+[dom set 20 2009] [19:48:30] <lxnay>	syncing ebuild-quiz ;) 2 new questions i need to copycat from logs
+[dom set 20 2009] [19:55:09] <lxnay>	ok done
+[dom set 20 2009] [19:55:13] <lxnay>	quick checking end-quiz
+[dom set 20 2009] [19:59:14] <lxnay>	ok done
+[dom set 20 2009] [19:59:16] <lxnay>	re-sending
+[dom set 20 2009] [19:59:23] <lxnay>	and crossing fingers ;)
+[dom set 20 2009] [20:02:09] <lxnay>	sent
+[dom set 20 2009] [20:02:48] <lxnay>	if (attachment_issue) kill_myself_and_firegpg_and_spawn_thunderbird
+[dom set 20 2009] [20:04:01] <lxnay>	doing pre-caching, already preparing mail with thunderbird ;)
+[dom set 20 2009] [20:08:02] <Betelgeuse>	don't see it in inbox yet
+[dom set 20 2009] [20:12:45] <lxnay>	still?
+[dom set 20 2009] [20:14:11] <Betelgeuse>	yep
+[dom set 20 2009] [20:16:46] <lxnay>	i sent it twice also
+[dom set 20 2009] [20:17:10] <lxnay>	sounds weird
+[dom set 20 2009] [20:20:57] <lxnay>	is there any other mail i could try then? i sent the 3rd
+[dom set 20 2009] [20:21:24] <Betelgeuse>	It doesn't get archived then.
+[dom set 20 2009] [20:25:09] <Betelgeuse>	it's probably temporary
+[dom set 20 2009] [20:28:06] <lxnay>	i could try via IPoAC
+[dom set 20 2009] [20:28:16] <lxnay>	maybe it can get there ;)
+[dom set 20 2009] [20:28:26] <Betelgeuse>	well I have already spend enough time today :)
