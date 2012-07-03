@@ -10,7 +10,7 @@
 #sabnavbar {
 	height: 40px !important;
 	padding: 10px 15px !important;
-	background: url('http://static.sabayon.org/site/shared/navbar_bg.png') #333 repeat-x left top !important;
+	background: url('https://static.sabayon.org/site/shared/navbar_bg.png') #333 repeat-x left top !important;
 	border-bottom: 5px #2058B2 solid !important;
 }
 
@@ -24,11 +24,11 @@
 }
 /* IE6 doesn't support alpha PNGs so we serve it a GIF */
 #sabnavbarlogo { 
-	background: url('http://static.sabayon.org/site/shared/logo.gif') no-repeat !important; 
+	background: url('https://static.sabayon.org/site/shared/logo.gif') no-repeat !important; 
 }
 /* and use a proper PNG for all other modern browsers */
 html > body #sabnavbarlogo { 
-	background: url('http://static.sabayon.org/site/shared/logo.png') no-repeat !important;
+	background: url('https://static.sabayon.org/site/shared/logo.png') no-repeat !important;
 }
 
 /* move the heading/paragraph text offscreen */
