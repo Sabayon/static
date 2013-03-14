@@ -5,6 +5,15 @@ html {
 	line-height: 1.5em;
 }
 
+table {
+	border: 0px;
+	border-spacing: 8px;
+}
+
+td {
+	padding: 10px;
+}
+
 a,
 a:link,
 a:visited,
