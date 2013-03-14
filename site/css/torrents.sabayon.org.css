@@ -1,26 +1,8 @@
 /* Global */
 html {
 	font-size: 100%;
-}
-
-html body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
-	font-size: 62.5%; /* 10px */
 	line-height: 1.5em;
-}
-
-.inside {
-	margin: 0 auto;
-	width: 96em;
-	overflow: auto;
-}
-
-.left {
-	text-align: left;
-}
-
-.right {
-	text-align: right;
 }
 
 a,
