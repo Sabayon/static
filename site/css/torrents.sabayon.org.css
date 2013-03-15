@@ -4,14 +4,29 @@ html {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
 }
 
+body {
+	font-family: Verdana,sans-serif,"Times New Roman"
+}
+
 table {
-	border: 0px;
-	border-spacing: 8px;
+	border: 1px solid #A0522D;
+	/* border-spacing: 8px; */
+	border-collapse:collapse;
+	width: 80 %;
+}
+
+th {
+	background-color: #90EE90;
+	color: black;
 }
 
 td {
-	padding: 10px;
-	border: 0px;
+	/* padding: 10px; */
+	border: 1px solid #A0522D;
+}
+
+td:hover {
+	background-color: #CACACA;
 }
 
 a,
